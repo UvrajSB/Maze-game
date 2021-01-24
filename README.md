@@ -13,4 +13,4 @@
 <br>Super power::>
       <br>  You can terminate a solid block
          For that give the command : Give me powers
-         Boy you can use it only once!! so be wise
+       <br>  Boy you can use it only once!! so be wise
